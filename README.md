@@ -7,7 +7,7 @@
   <h3 align="center">
     I'm a front-end developer from Guadalajara, México. Decent experience
     developing web stuff, mainly e-commerces. I began my career as a developer
-    in 2019. I'm a self-taught developer and got a computer science degree too.
+    in 2019 as a self-taught and recently got a computer science degree too.
   </h3>
   <hr />
 </div>
