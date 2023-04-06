@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there 👋, Welcome to the jungle</h1>
+  <h1 align="center">Hi there 👋, Welcome!</h1>
   <img
     src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif"
     width="200"
