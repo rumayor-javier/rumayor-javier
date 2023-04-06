@@ -12,11 +12,6 @@ I'm a front-end developer with experience in React, Redux, and Context. I also h
 - MongoDB
 - MySQL
 
-### Experience
-
-- Front-end development
-- E-commerce projects
-
 <!--
 **rumayor-javier/rumayor-javier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
