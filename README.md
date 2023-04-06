@@ -4,10 +4,9 @@
     src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif"
     width="200"
   />
-  <h3 align="center">
+  <p align="center">
     I'm a front-end developer from Guadalajara, México. Decent experience
     developing web stuff, mainly e-commerces. I began my career as a developer
     in 2019 as a self-taught and recently got a computer science degree too.
-  </h3>
-  <hr />
+  </p>
 </div>
